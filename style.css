@@ -1,0 +1,33 @@
+body{
+    background-color: whitesmoke;
+}
+h1{
+    color:red;
+    text-align: center;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+    font-style:italic;
+}
+h3{
+    text-align: center;
+}
+h3.Newark{
+    color:darkblue;
+    text-decoration: underline;
+    text-decoration-color: darkblue
+}
+h3.Ohare{
+    color: goldenrod;
+    text-decoration: underline;
+    text-decoration-color: goldenrod
+}
+p{
+    text-align: center;
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
